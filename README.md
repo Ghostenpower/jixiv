@@ -92,7 +92,7 @@ cd jixiv
 如有任何问题或建议，请通过以下方式联系我：
 
 - GitHub Issues: [https://github.com/Ghostenpower/jixiv/issues](https://github.com/Ghostenpower/jixiv/issues)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](2315181588@qq.com)
 
 ---
 
