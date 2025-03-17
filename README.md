@@ -83,9 +83,6 @@ cd jixiv
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 开启一个Pull Request
 
-## 📄 许可证
-
-本项目采用MIT许可证 - 详情请查看[LICENSE](LICENSE)文件
 
 ## 📞 联系方式
 
